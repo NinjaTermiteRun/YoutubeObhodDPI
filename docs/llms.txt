@@ -1,0 +1,20 @@
+# YoutubeObhodDPI
+
+> Актуальная версия с поддержкой YouTube в текущих условиях. Быстрее, надежнее, стабильнее
+
+YouTube тормозит из‑за DPI. YoutubeObhodDPI обходит это на Windows 10/11 одним .bat файлом.
+
+## Страницы
+- Сайт: https://ninjatermiterun.github.io/YoutubeObhodDPI/
+- Релиз: https://github.com/NinjaTermiteRun/YoutubeObhodDPI/releases/latest
+- Исходный код: https://github.com/NinjaTermiteRun/YoutubeObhodDPI
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
